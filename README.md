@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 
 <!--사용자 통계-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnwpwns&show_icons=true&theme=radical)
+
+<!--파이썬-->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
