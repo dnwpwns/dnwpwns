@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--벽돌깨기 게임-->
-벽돌깨기 게임
-https://github.com/dnwpwns/brick_breaker-game
+벽돌깨기 게임 : https://github.com/dnwpwns/brick_breaker-game
